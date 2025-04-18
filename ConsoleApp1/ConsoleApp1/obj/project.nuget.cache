@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLybuha4yLzWzwUqgu+t6NyQsEyLJHu9JF2XdHyhUq52x03Uo8dhGBMgH/ztAZfqRQdIA0mWAYUUH1uH2O36jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexe\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.4\\runtime.android-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.android-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.4\\runtime.android-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.4\\runtime.android-x86.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.4\\runtime.linux-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.4\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.4\\runtime.linux-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.4\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.4\\runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.4\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.4\\runtime.osx-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\system.io.ports\\9.0.4\\system.io.ports.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
